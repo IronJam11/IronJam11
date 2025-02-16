@@ -25,6 +25,8 @@ Welcome to my GitHub profile! Here's a little bit about me:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=IronJam11&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aaryan-jain-02b44827a/))
+- [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aaryan-jain-02b44827a/))
+- [Gmail](aaryanjain888@gmail.com)
+- [Discord](aaryan11)
 
 Thanks for visiting my profile! Have a great day! 😊
