@@ -17,7 +17,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/aaryan-jain-02b44827a/)
 - [Gmail](aaryanjain888@gmail.com)
-- [Discord](aaryan11)
+- Discord Username: aaryan11
 
 Thanks for visiting my profile! Have a great day! 😊
  
