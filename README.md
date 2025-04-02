@@ -1,4 +1,4 @@
-# Hi there, I'm Aaryan Jain 👋
+# Hi there, I'm Aaryan Jain 👋 
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
@@ -9,16 +9,10 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - 📫 How to reach me: [aaryanjain888@gmail.com](mailto:aaryanjain888@gmail.com)
 
 ## 🛠️ Technologies & Tools
-- 💻 Languages: JavaScript, Python, C++, Java, 
-- 🌐 Web Development: HTML, CSS, React, Node.js, Django, Redis, Celery, 
-- 🛢️ Databases: MongoDB, MySQL, PostgreSQL
-- ⚙️ Tools: Git, Docker
-
-## 📈 GitHub Stats
-![IronJam11's GitHub stats](https://github-readme-stats.vercel.app/api?username=IronJam11&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=IronJam11&theme=radical)
+- 💻 Languages: JavaScript, Python, C++, Java, Solidity, Rust, Dart, Foundry, Hardhat
+- 🌐 Web Development: HTML, CSS, React, Node.js, Django, Redis, Celery, Zero knowledge Proofs, Smart contract development
+- 🛢️ Databases: MongoDB, MySQL, PostgreSQL, Redis 
+- ⚙️ Tools: Git, Docker,Figma, 
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/aaryan-jain-02b44827a/)
@@ -26,3 +20,4 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - [Discord](aaryan11)
 
 Thanks for visiting my profile! Have a great day! 😊
+ 
