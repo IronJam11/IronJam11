@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - 💻 Languages: JavaScript, Python, C++, Java, Solidity, Rust, Dart, Foundry, Hardhat
 - 🌐 Web Development: HTML, CSS, React, Node.js, Django, Redis, Celery, Zero knowledge Proofs, Smart contract development
 - 🛢️ Databases: MongoDB, MySQL, PostgreSQL, Redis 
-- ⚙️ Tools: Git, Docker,Figma, 
+- ⚙️ Tools: Git, Docker,Figma
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/aaryan-jain-02b44827a/)
